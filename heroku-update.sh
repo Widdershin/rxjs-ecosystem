@@ -1,8 +1,8 @@
-git clone https://github.com/Widdershin/cycle-ecosystem.git
+git clone https://github.com/Widdershin/rxjs-ecosystem.git
 
 # Yeah, I clone my repo into my repo, wanna fight about it?
 
-cd cycle-ecosystem
+cd rxjs-ecosystem
 
 cp -r ../node_modules .
 
@@ -23,5 +23,5 @@ rm ~/.git-credentials
 
 cd ..
 
-rm -rf cycle-ecosystem/.git
-rm -r cycle-ecosystem
+rm -rf rxjs-ecosystem/.git
+rm -r rxjs-ecosystem
