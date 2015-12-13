@@ -91,6 +91,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [angus-c/rxjs-bouncing-balls](https://github.com/angus-c/rxjs-bouncing-balls) | bouncing balls using SVG and RxJS | 4 |
 | [maxmert/rocket-react](https://github.com/maxmert/rocket-react) | Boilerplate ES6 isomorphic React application based on reactive Flux pattern (use RxJS). Uses Babel, React-router, RxJS, Express. | 4 |
 | [ReactivePatterns/ReactiveJsComponents](https://github.com/ReactivePatterns/ReactiveJsComponents) | Building reactive components with React and RxJs | 4 |
+| [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 4 |
 | [Reactive-Extensions/RxJS-MooTools](https://github.com/Reactive-Extensions/RxJS-MooTools) | MooTools Bindings for the Reactive Extensions for JavaScript (RxJS) | 4 |
 | [justinwoo/react-fixed-scroll-element](https://github.com/justinwoo/react-fixed-scroll-element) | Fixed scroll element for React using RxJS | 4 |
 | [akauppi/svg.rx.js](https://github.com/akauppi/svg.rx.js) | Binding SVG elements to each other, using RxJS. Demo at | 4 |
