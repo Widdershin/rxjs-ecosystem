@@ -4,8 +4,8 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7006 |
-| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 773 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7007 |
+| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 774 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 473 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 352 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 332 |
@@ -72,6 +72,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) | Select Web Component with autocompletion. Based on RxJS and VirtualDOM. | 7 |
 | [holsee/ReactiveReact](https://github.com/holsee/ReactiveReact) | A Playground for combining RxJS with React.js | 7 |
 | [cburgdorf/rxjs-contribute](https://github.com/cburgdorf/rxjs-contribute) | A collection of community operators for the awesome RxJS library | 7 |
+| [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 7 |
 | [jondlm/rx-koans-cli](https://github.com/jondlm/rx-koans-cli) | Red green style RxJs koans for your learning pleasure on the command line | 7 |
 | [alexvictoor/RxJsKata](https://github.com/alexvictoor/RxJsKata) | A kata on RxJS that should get you up to speed with test schedulers, among other things... | 7 |
 | [oscarduignan/koa-react-router-rxjs-example](https://github.com/oscarduignan/koa-react-router-rxjs-example) | LATEST AT https://github.com/oscarduignan/koa-react-router-rxjs-karma-webpack-boilerplate. This repo was me getting my head around Koa, React, RxJS, ReactRouter and how these can fit together in an "isomorphic" (so components are rendered on the server initially) app - at the moment it's just the server part of this (koa routing requests with react router and loading data with rxjs) | 7 |
@@ -91,14 +92,13 @@ What are the most popular libraries in the RxJS ecosystem?
 | [angus-c/rxjs-bouncing-balls](https://github.com/angus-c/rxjs-bouncing-balls) | bouncing balls using SVG and RxJS | 4 |
 | [maxmert/rocket-react](https://github.com/maxmert/rocket-react) | Boilerplate ES6 isomorphic React application based on reactive Flux pattern (use RxJS). Uses Babel, React-router, RxJS, Express. | 4 |
 | [ReactivePatterns/ReactiveJsComponents](https://github.com/ReactivePatterns/ReactiveJsComponents) | Building reactive components with React and RxJs | 4 |
-| [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 4 |
 | [Reactive-Extensions/RxJS-MooTools](https://github.com/Reactive-Extensions/RxJS-MooTools) | MooTools Bindings for the Reactive Extensions for JavaScript (RxJS) | 4 |
 | [justinwoo/react-fixed-scroll-element](https://github.com/justinwoo/react-fixed-scroll-element) | Fixed scroll element for React using RxJS | 4 |
 | [akauppi/svg.rx.js](https://github.com/akauppi/svg.rx.js) | Binding SVG elements to each other, using RxJS. Demo at | 4 |
 | [Applied-Duality/RxJsX](https://github.com/Applied-Duality/RxJsX) | Lift-based Rx implementation in JavaScript | 4 |
 | [itechdom/rx-examples](https://github.com/itechdom/rx-examples) | RxJS examples. I included a client/ and server/ folders that contain many examples of using RxJS in an ES6 application. | 4 |
-| [trxcllnt/RxJS-Myo](https://github.com/trxcllnt/RxJS-Myo) | Driver for for Thalmic Lab's Myo devices implemented in RxJS | 4 |
 | [raimohanska/bacon.js-slides](https://github.com/raimohanska/bacon.js-slides) | Converted my rxjs slides to baconjs, as a proof of concept | 4 |
+| [trxcllnt/RxJS-Myo](https://github.com/trxcllnt/RxJS-Myo) | Driver for for Thalmic Lab's Myo devices implemented in RxJS | 4 |
 | [cvuorinen/reactive-life](https://github.com/cvuorinen/reactive-life) | An implementation of Conway's Game of Life with RxJS and Angular | 4 |
 | [oscarduignan/react-rxjs-elasticsearch-faceted-search-example](https://github.com/oscarduignan/react-rxjs-elasticsearch-faceted-search-example) | Example of using React and RxJS to build a faceted search interface for Elasticsearch. | 4 |
 
