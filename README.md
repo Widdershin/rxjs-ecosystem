@@ -4,11 +4,11 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7162 |
-| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 868 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7169 |
+| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 874 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 481 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 363 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 346 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 347 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 236 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 210 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 183 |
@@ -99,8 +99,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [justinwoo/react-fixed-scroll-element](https://github.com/justinwoo/react-fixed-scroll-element) | Fixed scroll element for React using RxJS | 4 |
 | [Applied-Duality/RxJsX](https://github.com/Applied-Duality/RxJsX) | Lift-based Rx implementation in JavaScript | 4 |
 | [cvuorinen/reactive-life](https://github.com/cvuorinen/reactive-life) | An implementation of Conway's Game of Life with RxJS and Angular | 4 |
-| [trxcllnt/RxJS-Myo](https://github.com/trxcllnt/RxJS-Myo) | Driver for for Thalmic Lab's Myo devices implemented in RxJS | 4 |
 | [raimohanska/bacon.js-slides](https://github.com/raimohanska/bacon.js-slides) | Converted my rxjs slides to baconjs, as a proof of concept | 4 |
+| [trxcllnt/RxJS-Myo](https://github.com/trxcllnt/RxJS-Myo) | Driver for for Thalmic Lab's Myo devices implemented in RxJS | 4 |
 | [oscarduignan/react-rxjs-elasticsearch-faceted-search-example](https://github.com/oscarduignan/react-rxjs-elasticsearch-faceted-search-example) | Example of using React and RxJS to build a faceted search interface for Elasticsearch. | 4 |
 | [oscarduignan/koa-react-router-rxjs-karma-webpack-boilerplate](https://github.com/oscarduignan/koa-react-router-rxjs-karma-webpack-boilerplate) | Refining the stack that I'm interested in using on projects down to some boilerplate, last step on the journey was https://github.com/oscarduignan/koa-react-router-rxjs-example which was just the server side rendering component | 4 |
 
