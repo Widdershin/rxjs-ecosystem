@@ -4,15 +4,15 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7852 |
-| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 1310 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 7871 |
+| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 1315 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 520 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 423 |
-| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 390 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 428 |
+| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 391 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 246 |
-| [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 222 |
+| [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 223 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 199 |
-| [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 197 |
+| [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 196 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 178 |
 | [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 146 |
 | [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 140 |
@@ -22,8 +22,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [ThunderCatsJS/thundercats](https://github.com/ThunderCatsJS/thundercats) | RxJS Meets Universal Flux | 91 |
 | [justinwoo/react-rxjs-flow](https://github.com/justinwoo/react-rxjs-flow) | a simple react application using RxJS for data flow | 85 |
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 84 |
+| [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) | A tldr-pages client for your web browser, built with React, ES6 and RxJS! | 82 |
 | [eliseumds/react-autocomplete](https://github.com/eliseumds/react-autocomplete) | Just tasting some ReactJS + RxJS | 81 |
-| [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) | A tldr-pages client for your web browser, built with React, ES6 and RxJS! | 81 |
 | [acdlite/react-rx-component](https://github.com/acdlite/react-rx-component) | Yet another RxJS library for React :) Create container components (also known as smart components) by transforming a sequence of props | 77 |
 | [milankinen/ffux](https://github.com/milankinen/ffux) | Functional Reactive Flux for RxJS and Bacon.js | 70 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 60 |
@@ -65,9 +65,9 @@ What are the most popular libraries in the RxJS ecosystem?
 | [justinwoo/react-rxjs-scroll](https://github.com/justinwoo/react-rxjs-scroll) | rough translation of http://www.simple.gy/blog/infinite-bacon/ into react/rxjs code | 12 |
 | [hugobessaa/rx-react-pinch](https://github.com/hugobessaa/rx-react-pinch) | Simple experiment with pinch-to-zoom, RxJs and ReactJS | 11 |
 | [newtriks/react-rx-immutable-example](https://github.com/newtriks/react-rx-immutable-example) | Just playin' with ReactJS, RxJS and ImmutableJS like... | 11 |
-| [bobiblazeski/rxjs-react](https://github.com/bobiblazeski/rxjs-react) | Example of using rxjs with react | 10 |
 | [jadbox/rxjs-cluster](https://github.com/jadbox/rxjs-cluster) | Node Cluster support in RxJS | 10 |
 | [alexvictoor/RxJsKata](https://github.com/alexvictoor/RxJsKata) | A kata on RxJS that should get you up to speed with test schedulers, among other things... | 10 |
+| [bobiblazeski/rxjs-react](https://github.com/bobiblazeski/rxjs-react) | Example of using rxjs with react | 9 |
 | [box/Chrome-App-SDK](https://github.com/box/Chrome-App-SDK) | Box SDK for Chrome Apps using AngularJS and RxJS | 9 |
 | [logicalguess/rx-state-machine](https://github.com/logicalguess/rx-state-machine) | Reactive State Machine with RxJs | 9 |
 | [brenoferreira/Reactive-Backbone](https://github.com/brenoferreira/Reactive-Backbone) | Reactive-Backbone allows you to use Reactive Extensions for Javascript (RxJS) to setup View events. | 9 |
@@ -84,8 +84,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [hlmerscher/pong-rxjs](https://github.com/hlmerscher/pong-rxjs) | A pong game made in RxJS. | 7 |
 | [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) | Select Web Component with autocompletion. Based on RxJS and VirtualDOM. | 7 |
 | [cburgdorf/rxjs-contribute](https://github.com/cburgdorf/rxjs-contribute) | A collection of community operators for the awesome RxJS library | 7 |
-| [michaelbpaulson/rxjs-examples](https://github.com/michaelbpaulson/rxjs-examples) |  | 7 |
 | [holsee/ReactiveReact](https://github.com/holsee/ReactiveReact) | A Playground for combining RxJS with React.js | 7 |
+| [michaelbpaulson/rxjs-examples](https://github.com/michaelbpaulson/rxjs-examples) |  | 7 |
 | [itechdom/rx-examples](https://github.com/itechdom/rx-examples) | RxJS examples. I included a client/ and server/ folders that contain many examples of using RxJS in an ES6 application. | 7 |
 | [jondlm/rx-koans-cli](https://github.com/jondlm/rx-koans-cli) | Red green style RxJs koans for your learning pleasure on the command line | 7 |
 | [oscarduignan/koa-react-router-rxjs-example](https://github.com/oscarduignan/koa-react-router-rxjs-example) | LATEST AT https://github.com/oscarduignan/koa-react-router-rxjs-karma-webpack-boilerplate. This repo was me getting my head around Koa, React, RxJS, ReactRouter and how these can fit together in an "isomorphic" (so components are rendered on the server initially) app - at the moment it's just the server part of this (koa routing requests with react router and loading data with rxjs) | 7 |
@@ -99,10 +99,10 @@ What are the most popular libraries in the RxJS ecosystem?
 | [tategakibunko/inga](https://github.com/tategakibunko/inga) | Light and extensible reactive application adapter between RxJS and virtual-dom | 6 |
 | [Reactive-Extensions/RxJS-Dojo](https://github.com/Reactive-Extensions/RxJS-Dojo) | Reactive Extensions bindings for the Dojo Toolkit | 6 |
 | [jpmossin/sonos-streams](https://github.com/jpmossin/sonos-streams) | Sonos with node and rxjs | 5 |
+| [akauppi/svg.rx.js](https://github.com/akauppi/svg.rx.js) | Binding SVG elements to each other, using RxJS. Demo at | 5 |
 | [Reactive-Extensions/rx.schedulers](https://github.com/Reactive-Extensions/rx.schedulers) | Standalone implementation of the RxJS schedulers | 5 |
 | [Reactive-Extensions/rx.priorityqueue](https://github.com/Reactive-Extensions/rx.priorityqueue) | Standalone Priority Queue from the RxJS library | 5 |
 | [panacloud/learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs) | Learn Reactive Programming with RxJS 5 and TypeScript in Baby Steps | 5 |
-| [akauppi/svg.rx.js](https://github.com/akauppi/svg.rx.js) | Binding SVG elements to each other, using RxJS. Demo at | 5 |
 | [trxcllnt/rxjs-components](https://github.com/trxcllnt/rxjs-components) | A JavaScript component framework built with Microsoft's Reactive Extensions for JavaScript. | 5 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=rxjs+language%3AJavaScript+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
