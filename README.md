@@ -4,8 +4,8 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 8042 |
-| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 1386 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 8072 |
+| [ReactiveX/RxJS](https://github.com/ReactiveX/RxJS) | A reactive programming library for JavaScript | 1395 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 530 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 442 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 395 |
@@ -16,11 +16,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 180 |
 | [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 147 |
 | [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 142 |
-| [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 135 |
+| [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 136 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 97 |
 | [mattpodwysocki/RxJSKoans](https://github.com/mattpodwysocki/RxJSKoans) | The Reactive Extensions for JavaScript (RxJS) Koans | 94 |
 | [ThunderCatsJS/thundercats](https://github.com/ThunderCatsJS/thundercats) | RxJS Meets Universal Flux | 91 |
-| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 89 |
+| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 90 |
 | [ostera/tldr.jsx](https://github.com/ostera/tldr.jsx) | A tldr-pages client for your web browser, built with React, ES6 and RxJS! | 88 |
 | [justinwoo/react-rxjs-flow](https://github.com/justinwoo/react-rxjs-flow) | a simple react application using RxJS for data flow | 86 |
 | [eliseumds/react-autocomplete](https://github.com/eliseumds/react-autocomplete) | Just tasting some ReactJS + RxJS | 81 |
@@ -32,11 +32,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 52 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 51 |
 | [blesh/RxEmber](https://github.com/blesh/RxEmber) | RxJS and EmberJS integration helpers | 49 |
-| [blesh/RxSocketSubject](https://github.com/blesh/RxSocketSubject) | A more advanced web socket wrapper for RxJS | 44 |
+| [blesh/RxSocketSubject](https://github.com/blesh/RxSocketSubject) | A more advanced web socket wrapper for RxJS | 46 |
 | [raimohanska/worzone](https://github.com/raimohanska/worzone) | Game programming experiment with Bacon.js (no more RxJs) | 35 |
+| [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 26 |
 | [zxbodya/reactive-widgets](https://github.com/zxbodya/reactive-widgets) | Application starter template, for implementing isomorphic widgets, using RxJS and React | 26 |
 | [staltz/rxtween](https://github.com/staltz/rxtween) | A library for creating RxJS Observables related to animation | 25 |
-| [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 25 |
 | [annatomka/rxjs-examples](https://github.com/annatomka/rxjs-examples) | In this repository you can find some RxJS examples that I made while I'm learning it. | 24 |
 | [trxcllnt/rxjs-easing](https://github.com/trxcllnt/rxjs-easing) | Robert Penner's easing functions as Observables. | 24 |
 | [blesh/ember-cli-rx](https://github.com/blesh/ember-cli-rx) | Ember and RxJS integration | 23 |
@@ -48,6 +48,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [joeycato/rxify](https://github.com/joeycato/rxify) | An RxJS library wrapper that lets you execute Rx operators directly using marble-diagram ASCII string arguments. | 17 |
 | [marcosloic/angular2echonest](https://github.com/marcosloic/angular2echonest) | Angular2 (Alpha 47) playground with Echonest API and RxJs | 16 |
 | [Reactive-Extensions/RxJS-WinJS](https://github.com/Reactive-Extensions/RxJS-WinJS) | The Reactive Extensions for JavaScript bindings for Windows 8 and WinJS | 16 |
+| [salsita/redux-saga-rxjs](https://github.com/salsita/redux-saga-rxjs) | RxJS implementation of Saga pattern for redux | 16 |
 | [trxcllnt/rxjs-extras](https://github.com/trxcllnt/rxjs-extras) | Extra RxJS extension methods to make working with Observables easier. | 15 |
 | [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 15 |
 | [mattpodwysocki/jsconf.co-2015-workshop](https://github.com/mattpodwysocki/jsconf.co-2015-workshop) | JSConf.CO 2015 Workshop on Async JavaScript and RxJS | 15 |
@@ -57,12 +58,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [iamssen/rxjs-marble-renderer](https://github.com/iamssen/rxjs-marble-renderer) |  | 14 |
 | [Reactive-Extensions/RxJS-Combinators](https://github.com/Reactive-Extensions/RxJS-Combinators) | A functional combinator library | 13 |
 | [Reactive-Extensions/rxjs-winjs-sample](https://github.com/Reactive-Extensions/rxjs-winjs-sample) | Using RxJS for Windows 8 | 13 |
-| [justinwoo/react-rxjs-scroll](https://github.com/justinwoo/react-rxjs-scroll) | rough translation of http://www.simple.gy/blog/infinite-bacon/ into react/rxjs code | 13 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 13 |
+| [justinwoo/react-rxjs-scroll](https://github.com/justinwoo/react-rxjs-scroll) | rough translation of http://www.simple.gy/blog/infinite-bacon/ into react/rxjs code | 13 |
 | [Reactive-Extensions/rx.disposables](https://github.com/Reactive-Extensions/rx.disposables) | Standalone library for disposables from RxJS | 12 |
 | [Reactive-Extensions/RxJS-Contrib](https://github.com/Reactive-Extensions/RxJS-Contrib) | The Reactive Extensions for JavaScript Contrib Project | 12 |
 | [trxcllnt/rxjs-gestures](https://github.com/trxcllnt/rxjs-gestures) | Unified mouse + touch gestures written in RxJS. | 12 |
-| [tomkis1/redux-saga-rxjs](https://github.com/tomkis1/redux-saga-rxjs) | Saga pattern for Redux using rxjs | 12 |
 | [hugobessaa/rx-react-pinch](https://github.com/hugobessaa/rx-react-pinch) | Simple experiment with pinch-to-zoom, RxJs and ReactJS | 11 |
 | [newtriks/react-rx-immutable-example](https://github.com/newtriks/react-rx-immutable-example) | Just playin' with ReactJS, RxJS and ImmutableJS like... | 11 |
 | [jadbox/rxjs-cluster](https://github.com/jadbox/rxjs-cluster) | Node Cluster support in RxJS | 10 |
@@ -96,8 +96,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [s5ot/react-rxjs-reactive](https://github.com/s5ot/react-rxjs-reactive) | ReactとRxJSでリアクティブプログラミング | 6 |
 | [wilkes/cljs-rx-examples](https://github.com/wilkes/cljs-rx-examples) | Playing around with RxJS and Clojurescript | 6 |
 | [channikhabra/frp-with-rxjs-jschannel-conf](https://github.com/channikhabra/frp-with-rxjs-jschannel-conf) | Functional Reactive Programming in Javascript with RxJS : JsChannel Conf 2015 | 6 |
-| [Reactive-Extensions/RxJS-Dojo](https://github.com/Reactive-Extensions/RxJS-Dojo) | Reactive Extensions bindings for the Dojo Toolkit | 6 |
 | [tategakibunko/inga](https://github.com/tategakibunko/inga) | Light and extensible reactive application adapter between RxJS and virtual-dom | 6 |
+| [Reactive-Extensions/RxJS-Dojo](https://github.com/Reactive-Extensions/RxJS-Dojo) | Reactive Extensions bindings for the Dojo Toolkit | 6 |
 | [akauppi/svg.rx.js](https://github.com/akauppi/svg.rx.js) | Binding SVG elements to each other, using RxJS. Demo at | 5 |
 | [jpmossin/sonos-streams](https://github.com/jpmossin/sonos-streams) | Sonos with node and rxjs | 5 |
 | [tangledfruit/rx-couch](https://github.com/tangledfruit/rx-couch) | RxJS-flavored APIs for CouchDB | 5 |
