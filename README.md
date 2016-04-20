@@ -4,18 +4,18 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 9125 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 9143 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 582 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 536 |
-| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 418 |
-| [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 267 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 538 |
+| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 419 |
+| [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 268 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 233 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 231 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 231 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 182 |
 | [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 179 |
-| [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 163 |
-| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 153 |
+| [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 166 |
+| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 154 |
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 105 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 104 |
 | [mattpodwysocki/RxJSKoans](https://github.com/mattpodwysocki/RxJSKoans) | The Reactive Extensions for JavaScript (RxJS) Koans | 94 |
@@ -45,8 +45,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [AngularClass/angular2-reactive-starter](https://github.com/AngularClass/angular2-reactive-starter) | Work in Progress: Angular 2 Reactive Starter Kit using Model View Intent (MVI) and RxJS | 22 |
 | [bobiblazeski/rio](https://github.com/bobiblazeski/rio) | Port of meteor realtime todos application using RethinkDB, Rxjs, Socket.io & React | 22 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 20 |
+| [Reactive-Extensions/RxJS-CLI](https://github.com/Reactive-Extensions/RxJS-CLI) | Reactive Extensions for JavaScript (RxJS) Command Line Interface | 20 |
 | [sdtsui/react-rxjs-webpack-es6-barebones-starter](https://github.com/sdtsui/react-rxjs-webpack-es6-barebones-starter) | Barebones starter kit for React and RxJS, using Webpack and ES6. | 20 |
-| [Reactive-Extensions/RxJS-CLI](https://github.com/Reactive-Extensions/RxJS-CLI) | Reactive Extensions for JavaScript (RxJS) Command Line Interface | 19 |
 | [marcosloic/angular2echonest](https://github.com/marcosloic/angular2echonest) | Angular2 (Alpha 47) playground with Echonest API and RxJs | 19 |
 | [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | Convert MobX observables to RxJS and vice-versa | 18 |
 | [loku/qrx](https://github.com/loku/qrx) | A distributed reactive work queue based on redis and RxJS | 18 |
@@ -81,11 +81,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [oscarduignan/react-rxjs-elasticsearch-faceted-search-example](https://github.com/oscarduignan/react-rxjs-elasticsearch-faceted-search-example) | LATEST rxjs & react stuff from me: https://github.com/oscarduignan/rxjs-redux-react ------ Example of using React and RxJS to build a faceted search interface for Elasticsearch. | 10 |
 | [trxcllnt/RxJS-2016](https://github.com/trxcllnt/RxJS-2016) |  | 10 |
 | [Reactive-Extensions/RxJS-ExtJS](https://github.com/Reactive-Extensions/RxJS-ExtJS) | Ext JS Bindings for the Reactive Extensions for JavaScript (RxJS) | 9 |
-| [blesh/rx-talk-may-2015](https://github.com/blesh/rx-talk-may-2015) | Examples for May 2015 talk on RxJS for Modern Web UI Meetup at Mozilla | 9 |
 | [acoshift/rxredis](https://github.com/acoshift/rxredis) | RxJS wrapper for Redis | 9 |
+| [blesh/rx-talk-may-2015](https://github.com/blesh/rx-talk-may-2015) | Examples for May 2015 talk on RxJS for Modern Web UI Meetup at Mozilla | 9 |
 | [erykpiast/autocompleted-select](https://github.com/erykpiast/autocompleted-select) | Select Web Component with autocompletion. Based on RxJS and VirtualDOM. | 9 |
-| [sejoker/learnrx](https://github.com/sejoker/learnrx) | A series of interactive exercises for learning RxJS in NodeSchool format | 9 |
 | [brenoferreira/Reactive-Backbone](https://github.com/brenoferreira/Reactive-Backbone) | Reactive-Backbone allows you to use Reactive Extensions for Javascript (RxJS) to setup View events. | 9 |
+| [sejoker/learnrx](https://github.com/sejoker/learnrx) | A series of interactive exercises for learning RxJS in NodeSchool format | 9 |
 | [tangledfruit/rx-couch](https://github.com/tangledfruit/rx-couch) | RxJS-flavored APIs for CouchDB | 8 |
 | [bjorg/rx.jQuery.observe](https://github.com/bjorg/rx.jQuery.observe) | Observer pattern for RxJs with jQuery | 8 |
 | [nramadas/Storable](https://github.com/nramadas/Storable) | A javascript datastore built using RxJS Observables | 8 |
