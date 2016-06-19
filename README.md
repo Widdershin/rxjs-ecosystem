@@ -4,12 +4,12 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10149 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10158 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 635 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 627 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux | 548 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux | 551 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 441 |
-| [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 282 |
+| [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 283 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 247 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 244 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 235 |
@@ -32,21 +32,21 @@ What are the most popular libraries in the RxJS ecosystem?
 | [Reactive-Extensions/rxjs-node](https://github.com/Reactive-Extensions/rxjs-node) | Reactive Extensions bindings for node.js | 62 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 61 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 61 |
-| [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 53 |
+| [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 54 |
 | [blesh/RxEmber](https://github.com/blesh/RxEmber) | RxJS and EmberJS integration helpers | 53 |
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 52 |
 | [gcanti/tom](https://github.com/gcanti/tom) | Elmish type-safe state and side effect manager using RxJS | 48 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 42 |
 | [zxbodya/rx-react-container](https://github.com/zxbodya/rx-react-container) | Container for connecting React Components to RxJS observables and observers | 39 |
-| [qq83387856/angular](https://github.com/qq83387856/angular) | anguar1.5.5学习教程官方配套源码，项目中也上传了pdf格式的电子书。对学习angularjs的朋友很有帮助。(keywords:angular angularjs angularjs1.x angular1.x controller ng-app $rootScope, $state, $stateParams views directive $http $scope $timeout factory service module ui-router ngRouter templateUrl ng-model ng-controller ng-include link compile  restrict ng-grid ng-animate ng-pagination rxjs system.js  protractor zone.js core.js node nodejs npm packacge.json cnpm server express fs html html5 h5 dhtml css2 css3 层叠样式表 布局 postcss styus less sass bootstrap foundation gulp grunt webpack chai mocha karma jasmine http-server fis3 descript it should toBe equal loader json phantomjs koa uglifyify jest mocks source-map-loader  js javascript ecmscript5 es6 babel typescript coffeescript atscript tsconfig jshint jslint csslint  前端学习使用资料笔记摘要源代码note learn 练习 study 入门basic 指导Reference 项目project framework 心得 例子 案例 example samle demo code phonecat test startkit starter promise ) | 37 |
+| [qq83387856/angular](https://github.com/qq83387856/angular) | anguar1.5.5学习教程官方配套源码，项目中也上传了pdf格式的电子书。对学习angularjs的朋友很有帮助。(keywords:angular angularjs angularjs1.x angular1.x controller ng-app $rootScope, $state, $stateParams views directive $http $scope $timeout factory service module ui-router ngRouter templateUrl ng-model ng-controller ng-include link compile  restrict ng-grid ng-animate ng-pagination rxjs system.js  protractor zone.js core.js node nodejs npm packacge.json cnpm server express fs html html5 h5 dhtml css2 css3 层叠样式表 布局 postcss styus less sass bootstrap foundation gulp grunt webpack chai mocha karma jasmine http-server fis3 descript it should toBe equal loader json phantomjs koa uglifyify jest mocks source-map-loader  js javascript ecmscript5 es6 babel typescript coffeescript atscript tsconfig jshint jslint csslint  前端学习使用资料笔记摘要源代码note learn 练习 study 入门basic 指导Reference 项目project framework 心得 例子 案例 example samle demo code phonecat test startkit starter promise ) | 39 |
 | [yamalight/rxstate](https://github.com/yamalight/rxstate) | Simple opinionated state management library based on RxJS and Immutable.js | 36 |
 | [raimohanska/worzone](https://github.com/raimohanska/worzone) | Game programming experiment with Bacon.js (no more RxJs) | 35 |
 | [staltz/rxtween](https://github.com/staltz/rxtween) | A library for creating RxJS Observables related to animation | 33 |
 | [zxbodya/reactive-widgets](https://github.com/zxbodya/reactive-widgets) | Application starter template, for implementing isomorphic widgets, using RxJS and React | 33 |
-| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 31 |
+| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 32 |
 | [trxcllnt/rxjs-easing](https://github.com/trxcllnt/rxjs-easing) | Robert Penner's easing functions as Observables. | 28 |
 | [annatomka/rxjs-examples](https://github.com/annatomka/rxjs-examples) | In this repository you can find some RxJS examples that I made while I'm learning it. | 27 |
-| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 26 |
+| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 27 |
 | [blesh/ember-cli-rx](https://github.com/blesh/ember-cli-rx) | Ember and RxJS integration | 25 |
 | [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 25 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 24 |
