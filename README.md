@@ -4,11 +4,11 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10874 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 749 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 689 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10896 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 751 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 691 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 655 |
-| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 475 |
+| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 476 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 288 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 264 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 258 |
@@ -86,8 +86,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [johnlindquist/rxjs-in-angular2](https://github.com/johnlindquist/rxjs-in-angular2) |  | 11 |
 | [logicalguess/rx-state-machine](https://github.com/logicalguess/rx-state-machine) | Reactive State Machine with RxJs | 11 |
 | [njl07/rx-http-request](https://github.com/njl07/rx-http-request) | The world-famous HTTP client Request now RxJS compliant and wrote in full ES2015. | 11 |
-| [acoshift/rxredis](https://github.com/acoshift/rxredis) | RxJS wrapper for Redis | 10 |
 | [blesh/rx-talk-may-2015](https://github.com/blesh/rx-talk-may-2015) | Examples for May 2015 talk on RxJS for Modern Web UI Meetup at Mozilla | 10 |
+| [acoshift/rxredis](https://github.com/acoshift/rxredis) | RxJS wrapper for Redis | 10 |
 | [box/Chrome-App-SDK](https://github.com/box/Chrome-App-SDK) | Box SDK for Chrome Apps using AngularJS and RxJS | 10 |
 | [achydenius/rxjs-web-midi](https://github.com/achydenius/rxjs-web-midi) | RxJS bindings for Web MIDI API | 10 |
 | [oscarduignan/react-rxjs-elasticsearch-faceted-search-example](https://github.com/oscarduignan/react-rxjs-elasticsearch-faceted-search-example) | LATEST rxjs & react stuff from me: https://github.com/oscarduignan/rxjs-redux-react ------ Example of using React and RxJS to build a faceted search interface for Elasticsearch. | 10 |
