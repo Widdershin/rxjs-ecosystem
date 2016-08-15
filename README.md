@@ -4,14 +4,14 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10955 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 758 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 696 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 10964 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 760 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 698 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 660 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 476 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 288 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 267 |
-| [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 259 |
+| [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 260 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 239 |
 | [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 215 |
 | [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 194 |
