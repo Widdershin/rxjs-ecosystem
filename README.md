@@ -4,13 +4,13 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 11969 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1159 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 11988 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1175 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 736 |
-| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 687 |
+| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 688 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 487 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 291 |
-| [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 285 |
+| [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 286 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 281 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 245 |
 | [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 229 |
@@ -27,20 +27,20 @@ What are the most popular libraries in the RxJS ecosystem?
 | [eliseumds/react-autocomplete](https://github.com/eliseumds/react-autocomplete) | Just tasting some ReactJS + RxJS | 88 |
 | [shiftyp/redurx](https://github.com/shiftyp/redurx) | Redux'ish Functional State Management using RxJS | 85 |
 | [acdlite/react-rx-component](https://github.com/acdlite/react-rx-component) | Yet another RxJS library for React :) Create container components (also known as smart components) by transforming a sequence of props | 82 |
-| [blesh/RxSocketSubject](https://github.com/blesh/RxSocketSubject) | A more advanced web socket wrapper for RxJS | 79 |
+| [blesh/RxSocketSubject](https://github.com/blesh/RxSocketSubject) | A more advanced web socket wrapper for RxJS | 80 |
 | [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 75 |
 | [milankinen/ffux](https://github.com/milankinen/ffux) | Functional Reactive Flux for RxJS and Bacon.js | 71 |
 | [gcanti/tom](https://github.com/gcanti/tom) | Elmish type-safe state and side effect manager using RxJS | 70 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 66 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 66 |
-| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 65 |
+| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 66 |
 | [Reactive-Extensions/rxjs-node](https://github.com/Reactive-Extensions/rxjs-node) | Reactive Extensions bindings for node.js | 64 |
 | [blesh/RxEmber](https://github.com/blesh/RxEmber) | RxJS and EmberJS integration helpers | 52 |
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 51 |
 | [zxbodya/rx-react-container](https://github.com/zxbodya/rx-react-container) | Container for connecting React Components to RxJS observables and observers | 51 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 46 |
 | [bsideup/rx-connect](https://github.com/bsideup/rx-connect) | Glue your state and pure React components with RxJS | 46 |
-| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 40 |
+| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 41 |
 | [raimohanska/worzone](https://github.com/raimohanska/worzone) | Game programming experiment with Bacon.js (no more RxJs) | 36 |
 | [staltz/rxtween](https://github.com/staltz/rxtween) | A library for creating RxJS Observables related to animation | 36 |
 | [yamalight/rxstate](https://github.com/yamalight/rxstate) | Simple opinionated state management library based on RxJS and Immutable.js | 36 |
@@ -51,7 +51,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [blesh/ember-cli-rx](https://github.com/blesh/ember-cli-rx) | Ember and RxJS integration | 25 |
 | [bobiblazeski/rio](https://github.com/bobiblazeski/rio) | Port of meteor realtime todos application using RethinkDB, Rxjs, Socket.io & React | 25 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 24 |
-| [dacz/rxr](https://github.com/dacz/rxr) | Maintains state for React app with RxJS the Redux way | 23 |
+| [dacz/rxr](https://github.com/dacz/rxr) | Maintains state for React app with RxJS the Redux way | 24 |
 | [marcosloic/angular2echonest](https://github.com/marcosloic/angular2echonest) | Angular2 (Alpha 47) playground with Echonest API and RxJs | 21 |
 | [Reactive-Extensions/RxJS-CLI](https://github.com/Reactive-Extensions/RxJS-CLI) | Reactive Extensions for JavaScript (RxJS) Command Line Interface | 21 |
 | [sdtsui/react-rxjs-webpack-es6-barebones-starter](https://github.com/sdtsui/react-rxjs-webpack-es6-barebones-starter) | Barebones starter kit for React and RxJS, using Webpack and ES6. | 21 |
