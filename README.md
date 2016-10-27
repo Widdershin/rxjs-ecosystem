@@ -4,9 +4,9 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 12306 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1354 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 759 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 12322 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1365 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 763 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 706 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 495 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 294 |
@@ -17,7 +17,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 200 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 194 |
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 167 |
-| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 165 |
+| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 166 |
 | [Reactive-Extensions/rx-node](https://github.com/Reactive-Extensions/rx-node) | RxJS Bindings for Node.js and io.js | 130 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 129 |
 | [justinwoo/react-rxjs-flow](https://github.com/justinwoo/react-rxjs-flow) | a simple react application using RxJS for data flow | 102 |
@@ -40,7 +40,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 51 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 47 |
 | [bsideup/rx-connect](https://github.com/bsideup/rx-connect) | Glue your state and pure React components with RxJS | 47 |
-| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 44 |
+| [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | :sparkles: Convert MobX observables to RxJS and vice-versa | 45 |
 | [staltz/rxtween](https://github.com/staltz/rxtween) | A library for creating RxJS Observables related to animation | 37 |
 | [raimohanska/worzone](https://github.com/raimohanska/worzone) | Game programming experiment with Bacon.js (no more RxJs) | 36 |
 | [zxbodya/reactive-widgets](https://github.com/zxbodya/reactive-widgets) | Application starter template, for implementing isomorphic widgets, using RxJS and React | 36 |
@@ -52,7 +52,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [blesh/ember-cli-rx](https://github.com/blesh/ember-cli-rx) | Ember and RxJS integration | 25 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 25 |
 | [bobiblazeski/rio](https://github.com/bobiblazeski/rio) | Port of meteor realtime todos application using RethinkDB, Rxjs, Socket.io & React | 25 |
-| [johnlindquist/rxjs-in-angular2](https://github.com/johnlindquist/rxjs-in-angular2) | null | 21 |
+| [johnlindquist/rxjs-in-angular2](https://github.com/johnlindquist/rxjs-in-angular2) | null | 22 |
 | [Reactive-Extensions/RxJS-CLI](https://github.com/Reactive-Extensions/RxJS-CLI) | Reactive Extensions for JavaScript (RxJS) Command Line Interface | 21 |
 | [sdtsui/react-rxjs-webpack-es6-barebones-starter](https://github.com/sdtsui/react-rxjs-webpack-es6-barebones-starter) | Barebones starter kit for React and RxJS, using Webpack and ES6. | 21 |
 | [marcosloic/angular2echonest](https://github.com/marcosloic/angular2echonest) | Angular2 (Alpha 47) playground with Echonest API and RxJs | 20 |
@@ -63,11 +63,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [Reactive-Extensions/RxJS-WinJS](https://github.com/Reactive-Extensions/RxJS-WinJS) | The Reactive Extensions for JavaScript bindings for Windows 8 and WinJS | 18 |
 | [jadbox/rxjs-cluster](https://github.com/jadbox/rxjs-cluster) | Node Cluster support in RxJS | 18 |
 | [cvuorinen/angular1-async-filter](https://github.com/cvuorinen/angular1-async-filter) | Angular2 async pipe implemented as Angular 1 filter to handle promises & RxJS observables | 18 |
+| [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 18 |
 | [loku/qrx](https://github.com/loku/qrx) | A distributed reactive work queue based on redis and RxJS | 18 |
 | [mattpodwysocki/jsconf.co-2015-workshop](https://github.com/mattpodwysocki/jsconf.co-2015-workshop) | JSConf.CO 2015 Workshop on Async JavaScript and RxJS | 18 |
 | [Reactive-Extensions/rx.disposables](https://github.com/Reactive-Extensions/rx.disposables) | Standalone library for disposables from RxJS | 17 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 17 |
-| [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 17 |
 | [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 17 |
 | [Urigo/meteor-rxjs](https://github.com/Urigo/meteor-rxjs) | Exposing Mongo Cursor as RxJS Observable | 16 |
 | [splintercode/observable-rxjs-demos](https://github.com/splintercode/observable-rxjs-demos) | null | 16 |
