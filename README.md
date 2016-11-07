@@ -4,20 +4,19 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 12511 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1432 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 767 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 12551 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 1444 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 769 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 709 |
-| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 505 |
+| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 506 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 295 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 294 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 288 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 245 |
 | [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 230 |
-| [WebRxJS/WebRx](https://github.com/WebRxJS/WebRx) | WebRx is a Javascript MVVM-Framework built on ReactiveX for Javascript (RxJs) that combines Functional-Reactive-Programming with declarative Data-Binding, Templating and Client-Side Routing. | 199 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 194 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | Simple RxJS binding for Vue.js. | 172 |
-| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 168 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | Simple RxJS binding for Vue.js. | 185 |
+| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 170 |
 | [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 168 |
 | [Reactive-Extensions/rx-node](https://github.com/Reactive-Extensions/rx-node) | RxJS Bindings for Node.js and io.js | 133 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 129 |
@@ -67,10 +66,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 18 |
 | [loku/qrx](https://github.com/loku/qrx) | A distributed reactive work queue based on redis and RxJS | 18 |
 | [mattpodwysocki/jsconf.co-2015-workshop](https://github.com/mattpodwysocki/jsconf.co-2015-workshop) | JSConf.CO 2015 Workshop on Async JavaScript and RxJS | 18 |
+| [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 18 |
 | [Reactive-Extensions/rx.disposables](https://github.com/Reactive-Extensions/rx.disposables) | Standalone library for disposables from RxJS | 17 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 17 |
-| [Widdershin/rx-undoable](https://github.com/Widdershin/rx-undoable) | Easily add undo and redo to your RxJS or Cycle.js apps | 17 |
-| [splintercode/observable-rxjs-demos](https://github.com/splintercode/observable-rxjs-demos) | null | 16 |
+| [splintercode/observable-rxjs-demos](https://github.com/splintercode/observable-rxjs-demos) | null | 17 |
+| [ptsurko/rx-lite](https://github.com/ptsurko/rx-lite) | RxJS lite implementation | 16 |
 | [trxcllnt/rxjs-extras](https://github.com/trxcllnt/rxjs-extras) | Extra RxJS extension methods to make working with Observables easier. | 16 |
 | [mbalex99/rxjsfirebase](https://github.com/mbalex99/rxjsfirebase) | Helpers for Firebase and RxJS | 15 |
 | [eschwartz/rxtodo](https://github.com/eschwartz/rxtodo) | Playing around with RxJS and Cycle.js | 15 |
@@ -96,7 +96,6 @@ What are the most popular libraries in the RxJS ecosystem?
 | [alexvictoor/RxJsKata](https://github.com/alexvictoor/RxJsKata) | A kata on RxJS that should get you up to speed with test schedulers, among other things... | 12 |
 | [JayKan/RxJS-Playground](https://github.com/JayKan/RxJS-Playground) | A list of RxJS examples  | 11 |
 | [acoshift/rxredis](https://github.com/acoshift/rxredis) | RxJS wrapper for Redis | 11 |
-| [ptsurko/rx-lite](https://github.com/ptsurko/rx-lite) | RxJS lite implementation | 11 |
 | [tangledfruit/rxjs-fetch](https://github.com/tangledfruit/rxjs-fetch) | RxJS-flavored version of HTTP fetch API for node.js | 11 |
 | [blesh/rx-talk-may-2015](https://github.com/blesh/rx-talk-may-2015) | Examples for May 2015 talk on RxJS for Modern Web UI Meetup at Mozilla | 10 |
 | [achydenius/rxjs-web-midi](https://github.com/achydenius/rxjs-web-midi) | RxJS bindings for Web MIDI API | 10 |
@@ -104,6 +103,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [oscarduignan/react-rxjs-elasticsearch-faceted-search-example](https://github.com/oscarduignan/react-rxjs-elasticsearch-faceted-search-example) | LATEST rxjs & react stuff from me: https://github.com/oscarduignan/rxjs-redux-react ------ Example of using React and RxJS to build a faceted search interface for Elasticsearch. | 10 |
 | [JeanLebrument/react-native-contacts-rx](https://github.com/JeanLebrument/react-native-contacts-rx) | react-native-contacts counterpart that include the support of RxJS. | 10 |
 | [christianalfoni/rxjs-app](https://github.com/christianalfoni/rxjs-app) | A tiny lib to build webapps using rxjs | 10 |
+| [trxcllnt/RxJS-2016](https://github.com/trxcllnt/RxJS-2016) | null | 10 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=rxjs+language%3AJavaScript+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
 
