@@ -4,15 +4,15 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 16306 |
-| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime :heavy_exclamation_mark: | 5297 |
-| [este/este](https://github.com/este/este) | Starter kit for universal full–fledged React apps. | 4974 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 3032 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1112 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 16317 |
+| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime :heavy_exclamation_mark: | 5306 |
+| [este/este](https://github.com/este/este) | Starter kit for universal full–fledged React apps. | 4978 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 3038 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1114 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 889 |
-| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 789 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | RxJS integration for Vue.js. | 682 |
-| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 572 |
+| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 790 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | RxJS integration for Vue.js. | 684 |
+| [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 573 |
 | [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) | Restangular for Angular 2 and higher versions | 382 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 361 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 327 |
@@ -22,7 +22,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [thalesmello/exploring-async](https://github.com/thalesmello/exploring-async) | An essay exploring different async techniques in JavaScript. | 266 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 249 |
 | [recyclejs/recycle](https://github.com/recyclejs/recycle) | Convert functional/reactive object description using RxJS into React component | 247 |
-| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 222 |
+| [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | RxJS Workshop exercises for MLOC.js | 223 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 194 |
 | [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 190 |
 | [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 185 |
@@ -42,8 +42,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 81 |
 | [gcanti/tom](https://github.com/gcanti/tom) | Elmish type-safe state and side effect manager using RxJS | 79 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 76 |
+| [bsideup/rx-connect](https://github.com/bsideup/rx-connect) | Glue your state and pure React components with RxJS | 73 |
 | [milankinen/ffux](https://github.com/milankinen/ffux) | Functional Reactive Flux for RxJS and Bacon.js | 73 |
-| [bsideup/rx-connect](https://github.com/bsideup/rx-connect) | Glue your state and pure React components with RxJS | 72 |
 | [zxbodya/rx-react-container](https://github.com/zxbodya/rx-react-container) | Container for connecting React Components to RxJS observables and observers | 72 |
 | [Reactive-Extensions/rxjs-node](https://github.com/Reactive-Extensions/rxjs-node) | Reactive Extensions bindings for node.js | 71 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 70 |
@@ -97,8 +97,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [Reactive-Extensions/RxJS-WinJS](https://github.com/Reactive-Extensions/RxJS-WinJS) | The Reactive Extensions for JavaScript bindings for Windows 8 and WinJS | 19 |
 | [jadbox/rxjs-cluster](https://github.com/jadbox/rxjs-cluster) | Node Cluster support in RxJS | 19 |
 | [trxcllnt/rxjs-gestures](https://github.com/trxcllnt/rxjs-gestures) | A library for reacting to future user input. | 19 |
-| [justinwoo/react-rxjs-scroll](https://github.com/justinwoo/react-rxjs-scroll) | rough translation of http://www.simple.gy/blog/infinite-bacon/ into react/rxjs code | 19 |
 | [luigiplr/react-router-redux-rxjs-code-splitting](https://github.com/luigiplr/react-router-redux-rxjs-code-splitting) | An example React Redux app using React Router & RxJS for route management & chunk loading respectively. | 19 |
+| [justinwoo/react-rxjs-scroll](https://github.com/justinwoo/react-rxjs-scroll) | rough translation of http://www.simple.gy/blog/infinite-bacon/ into react/rxjs code | 19 |
 | [iamssen/rxjs-marble-renderer](https://github.com/iamssen/rxjs-marble-renderer) | null | 19 |
 | [joeycato/rxify](https://github.com/joeycato/rxify) | An RxJS library wrapper that lets you execute Rx operators directly using marble-diagram ASCII string arguments. | 19 |
 | [mohamedhayibor/Rx-CycleJS-reviewNotes](https://github.com/mohamedhayibor/Rx-CycleJS-reviewNotes) | Review notes on RxJS and CycleJS | 18 |
