@@ -4,11 +4,11 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 16920 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 16929 |
 | [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: Reactive Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime :heavy_exclamation_mark: | 5492 |
 | [este/este](https://github.com/este/este) | Starter kit for universal full–fledged React apps | 5122 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 3371 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1172 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 3373 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1173 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 903 |
 | [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | RxJS integration for Vue.js. | 816 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 807 |
@@ -50,8 +50,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [funcool/beicon](https://github.com/funcool/beicon) | Reactive Streams for Clojure(Script)  | 72 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 70 |
 | [bradtraversy/rxjs_boiler](https://github.com/bradtraversy/rxjs_boiler) | Boilerplate for building RxJS applications with Webpack and Babel | 66 |
-| [BerndWessels/preact-redux-isomorphic](https://github.com/BerndWessels/preact-redux-isomorphic) | preact-redux-isomorphic PWA SPA SSR best practices and libraries in under 80kB page size (for live demo click the link below) | 65 |
-| [DanWahlin/Angular-NodeJS-MongoDB-CustomersService](https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService) | Code for the Integrating Angular with Node.js RESTful Services Pluralsight course. | 63 |
+| [BerndWessels/preact-redux-isomorphic](https://github.com/BerndWessels/preact-redux-isomorphic) | preact-redux-isomorphic PWA SPA SSR best practices and libraries in under 80kB page size (for live demo click the link below) | 66 |
+| [DanWahlin/Angular-NodeJS-MongoDB-CustomersService](https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService) | Code for the Integrating Angular with Node.js RESTful Services Pluralsight course. | 64 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 63 |
 | [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | [DEPRECATED] :sparkles: Convert MobX observables to RxJS and vice-versa | 58 |
 | [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 58 |
@@ -74,8 +74,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [cvuorinen/angular1-async-filter](https://github.com/cvuorinen/angular1-async-filter) | Angular2 async pipe implemented as Angular 1 filter to handle promises & RxJS observables | 35 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 32 |
 | [panacloud/learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs) | Learn Reactive Programming with RxJS 5 and TypeScript in Baby Steps | 32 |
+| [Lorti/rxjs-breakout](https://github.com/Lorti/rxjs-breakout) | RxJS Breakout | 31 |
 | [ecmadao/rxjs-example](https://github.com/ecmadao/rxjs-example) | A quick start for RxJS usage | 31 |
-| [Lorti/rxjs-breakout](https://github.com/Lorti/rxjs-breakout) | RxJS Breakout | 30 |
 | [johnlindquist/rxjs-in-angular2](https://github.com/johnlindquist/rxjs-in-angular2) | null | 30 |
 | [Lokeh/observe-component](https://github.com/Lokeh/observe-component) | A library for accessing React component events as reactive observables | 28 |
 | [joshburgess/inferno-most-fp-demo](https://github.com/joshburgess/inferno-most-fp-demo) | A demo showing how to build a React+Redux-like architecture from scratch using Inferno, Most.js, reactive programmning, and various functional programming tools & techniques | 28 |
