@@ -4,16 +4,16 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 17987 |
-| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: A reactive Database for Progressive Web Apps and more | 5988 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 4146 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1272 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | RxJS integration for Vue.js. | 1146 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 17991 |
+| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: A reactive Database for Progressive Web Apps and more | 5992 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 4152 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1273 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | RxJS integration for Vue.js. | 1147 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 932 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 819 |
 | [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 667 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 603 |
-| [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) | Restangular for Angular 2 and higher versions | 514 |
+| [2muchcoffeecom/ngx-restangular](https://github.com/2muchcoffeecom/ngx-restangular) | Restangular for Angular 2 and higher versions | 515 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 388 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 342 |
 | [fdecampredon/react-rxjs-todomvc](https://github.com/fdecampredon/react-rxjs-todomvc) | TodoMVC implementation with React and RxJS | 326 |
@@ -27,7 +27,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 202 |
 | [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 197 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 194 |
-| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 157 |
+| [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 158 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 154 |
 | [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 124 |
 | [vuejs/vuex-observable](https://github.com/vuejs/vuex-observable) | Consume Vuex actions as Observables using RxJS 5 | 107 |
@@ -81,7 +81,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [panacloud/learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs) | Learn Reactive Programming with RxJS 5 and TypeScript in Baby Steps | 36 |
 | [Lorti/rxjs-breakout](https://github.com/Lorti/rxjs-breakout) | RxJS Breakout | 34 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 34 |
-| [madeagency/reactivity](https://github.com/madeagency/reactivity) | A Bleeding Edge React Universal Boilerplate for Power Users. | 33 |
+| [madeagency/reactivity](https://github.com/madeagency/reactivity) | A Bleeding Edge React Universal Boilerplate for Power Users. | 34 |
 | [Shyam-Chen/Frontend-Starter-Kit](https://github.com/Shyam-Chen/Frontend-Starter-Kit) | A boilerplate for HTML5, Material, Firebase, Gulp, Rollup, Babel, Reshape, and PostCSS. Progressive Web App | ESLint | Jest | Jasmine | Protractor | Headless Chrome | Cloud Functions | Serverless | Prerender | SPA | SEO | Lodash | RxJS | MobX | Immutable | D3 | Three | Google Developers Certification | Mobile Web Specialist | CI/CD | Docker | 33 |
 | [johnlindquist/rxjs-in-angular2](https://github.com/johnlindquist/rxjs-in-angular2) | null | 30 |
 | [soyuka/rxrest](https://github.com/soyuka/rxrest) | Reactive rest library | 30 |
