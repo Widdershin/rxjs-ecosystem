@@ -4,15 +4,15 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19080 |
-| [onivim/oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | 8004 |
-| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: A reactive Database for Progressive Web Apps and more | 6627 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 5221 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 1557 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19082 |
+| [onivim/oni](https://github.com/onivim/oni) | Oni: Modern Modal Editing - powered by Neovim | 8008 |
+| [pubkey/rxdb](https://github.com/pubkey/rxdb) | :computer: :iphone: A reactive Database for Progressive Web Apps and more | 6640 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 5226 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 1583 |
 | [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1416 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 970 |
-| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 836 |
-| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 806 |
+| [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 835 |
+| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 807 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 607 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 422 |
 | [Reactive-Extensions/RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans) | RxJS Koans | 365 |
@@ -22,22 +22,22 @@ What are the most popular libraries in the RxJS ecosystem?
 | [kitten/fluorine](https://github.com/kitten/fluorine) | [UNMAINTAINED] Reactive state and side effect management for React using a single stream of actions | 296 |
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | (From 2015) RxJS Workshop exercises for MLOC.js | 283 |
 | [thalesmello/exploring-async](https://github.com/thalesmello/exploring-async) | An essay exploring different async techniques in JavaScript. | 281 |
-| [react-native-sensors/react-native-sensors](https://github.com/react-native-sensors/react-native-sensors) | A developer friendly approach for sensors in React Native | 275 |
-| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 272 |
+| [react-native-sensors/react-native-sensors](https://github.com/react-native-sensors/react-native-sensors) | A developer friendly approach for sensors in React Native | 276 |
+| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 274 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 252 |
 | [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 226 |
 | [Reactive-Extensions/rx-node](https://github.com/Reactive-Extensions/rx-node) | RxJS Bindings for Node.js and io.js | 223 |
-| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 203 |
+| [Reactive-Extensions/rxjs-jquery](https://github.com/Reactive-Extensions/rxjs-jquery) | Reactive Extensions bindings for jQuery | 204 |
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 194 |
 | [MichalZalecki/connect-rxjs-to-react](https://github.com/MichalZalecki/connect-rxjs-to-react) | Connect rxjs to React component in Redux style... but without dispatch and constants. | 180 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 159 |
-| [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 140 |
+| [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 141 |
 | [vuejs/vuex-observable](https://github.com/vuejs/vuex-observable) | Consume Vuex actions as Observables using RxJS 5 | 137 |
 | [kitten/rxjs-diagrams](https://github.com/kitten/rxjs-diagrams) | React Components for visualising RxJS observables and operators | 115 |
 | [salsita/redux-saga-rxjs](https://github.com/salsita/redux-saga-rxjs) | RxJS implementation of Saga pattern for redux | 111 |
 | [mattpodwysocki/RxJSKoans](https://github.com/mattpodwysocki/RxJSKoans) | The Reactive Extensions for JavaScript (RxJS) Koans | 107 |
 | [joshburgess/redux-most](https://github.com/joshburgess/redux-most) | Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming. | 107 |
-| [bradtraversy/rxjs_boiler](https://github.com/bradtraversy/rxjs_boiler) | Boilerplate for building RxJS applications with Webpack and Babel | 106 |
+| [bradtraversy/rxjs_boiler](https://github.com/bradtraversy/rxjs_boiler) | Boilerplate for building RxJS applications with Webpack and Babel | 105 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 105 |
 | [justinwoo/react-rxjs-flow](https://github.com/justinwoo/react-rxjs-flow) | a simple react application using RxJS for data flow | 105 |
 | [johnlindquist/react-streams](https://github.com/johnlindquist/react-streams) | null | 105 |
@@ -59,10 +59,10 @@ What are the most popular libraries in the RxJS ecosystem?
 | [Reactive-Extensions/rxjs-node](https://github.com/Reactive-Extensions/rxjs-node) | Reactive Extensions bindings for node.js | 72 |
 | [codesuki/reactive-flux](https://github.com/codesuki/reactive-flux) | Fluxish model implemented with RxJS | 72 |
 | [gilbarbara/react-redux-observables-boilerplate](https://github.com/gilbarbara/react-redux-observables-boilerplate) | Starter kit for React with Router, Redux, Observable + RxJS | 70 |
+| [boosterfuels/monogram](https://github.com/boosterfuels/monogram) | Aspect-oriented layer on top of the MongoDB Node.js driver | 69 |
 | [RxJSInAction/rxjs-in-action](https://github.com/RxJSInAction/rxjs-in-action) | Code sample repository | 68 |
-| [boosterfuels/monogram](https://github.com/boosterfuels/monogram) | Aspect-oriented layer on top of the MongoDB Node.js driver | 67 |
+| [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) | 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram | 66 |
 | [ryardley/rxjs-as-redux](https://github.com/ryardley/rxjs-as-redux) | A simple proof of concept Redux style framework only using Rx | 66 |
-| [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) | 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram | 65 |
 | [van100j/tibot](https://github.com/van100j/tibot) | TiBot — The Date and Time Bot | 65 |
 | [ivan-kleshnin/reactive-polyglot](https://github.com/ivan-kleshnin/reactive-polyglot) | FRP libraries / langs compared | 62 |
 | [DxCx/graphql-rxjs](https://github.com/DxCx/graphql-rxjs) | fork of Graphql which adds Observable support | 60 |
@@ -91,7 +91,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [BerkeleyTrue/react-redux-epic](https://github.com/BerkeleyTrue/react-redux-epic) | null | 37 |
 | [topheman/rxjs-experiments](https://github.com/topheman/rxjs-experiments) | Playing with RxJS | 36 |
 | [Lorti/rxjs-breakout](https://github.com/Lorti/rxjs-breakout) | RxJS Breakout | 36 |
-| [Amin52J/React-Redux-Enterprise](https://github.com/Amin52J/React-Redux-Enterprise) | A React-Redux boilerplate for enterprise/large scaled web applications | 34 |
+| [Amin52J/React-Redux-Enterprise](https://github.com/Amin52J/React-Redux-Enterprise) | A React-Redux boilerplate for enterprise/large scaled web applications | 35 |
 | [Lokeh/observe-component](https://github.com/Lokeh/observe-component) | A library for accessing React component events as reactive observables | 32 |
 | [kahlil/flow-state](https://github.com/kahlil/flow-state) | A library to easily apply a unidirectional dataflow in your apps with RxJS. | 31 |
 | [cif/redux-fusion](https://github.com/cif/redux-fusion) | React bindings for RxJS and Redux | 30 |
@@ -99,7 +99,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [marcosloic/angular2echonest](https://github.com/marcosloic/angular2echonest) | Angular2 (Alpha 47) playground with Echonest API and RxJs | 30 |
 | [soyuka/rxrest](https://github.com/soyuka/rxrest) | Reactive rest library | 30 |
 | [coryrylan/observable-rxjs-demos](https://github.com/coryrylan/observable-rxjs-demos) | null | 29 |
-| [mocheng/dissecting-rxjs](https://github.com/mocheng/dissecting-rxjs) | 《深入浅出RxJS》代码库 | 28 |
+| [mocheng/dissecting-rxjs](https://github.com/mocheng/dissecting-rxjs) | 《深入浅出RxJS》代码库 | 29 |
 | [jorgeucano/30DiasConRxJS](https://github.com/jorgeucano/30DiasConRxJS) | https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755 | 28 |
 | [tangledfruit/rxjs-fetch](https://github.com/tangledfruit/rxjs-fetch) | RxJS-flavored version of HTTP fetch API for node.js | 28 |
 | [rxjs-playground/rxjs-playground.github.io](https://github.com/rxjs-playground/rxjs-playground.github.io) | Rx.js playground | 28 |
