@@ -4,10 +4,10 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19717 |
-| [pubkey/rxdb](https://github.com/pubkey/rxdb) | ⛁ A realtime Database for JavaScript Applications | 9621 |
-| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 6758 |
-| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 5854 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19716 |
+| [pubkey/rxdb](https://github.com/pubkey/rxdb) | ⛁ A realtime Database for JavaScript Applications | 9642 |
+| [redux-observable/redux-observable](https://github.com/redux-observable/redux-observable) | RxJS middleware for action side effects in Redux using "Epics" | 6760 |
+| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 5857 |
 | [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 2644 |
 | [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1587 |
 | [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1160 |
