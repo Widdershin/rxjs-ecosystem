@@ -5,11 +5,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19734 |
-| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 6222 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 2719 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1597 |
-| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1202 |
-| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1015 |
+| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 6225 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 2721 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1598 |
+| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1203 |
+| [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1014 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 842 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 618 |
 | [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 439 |
@@ -60,7 +60,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [BerndWessels/preact-redux-isomorphic](https://github.com/BerndWessels/preact-redux-isomorphic) | preact-redux-isomorphic PWA SPA SSR best practices and libraries in under 80kB page size (for live demo click the link below) | 82 |
 | [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 81 |
 | [ryardley/rxjs-as-redux](https://github.com/ryardley/rxjs-as-redux) | A simple proof of concept Redux style framework only using Rx | 78 |
-| [madeagency/reactivity](https://github.com/madeagency/reactivity) | A Bleeding Edge React Universal Boilerplate for Power Users. | 78 |
+| [madeagency/reactivity](https://github.com/madeagency/reactivity) | A Bleeding Edge React Universal Boilerplate for Power Users. | 77 |
 | [bahmutov/node-rx-cycle](https://github.com/bahmutov/node-rx-cycle) | Example using RxJS and Cycle.js on the server to handle requests (NOT server-side rendering) | 76 |
 | [DxCx/graphql-rxjs](https://github.com/DxCx/graphql-rxjs) | fork of Graphql which adds Observable support | 75 |
 | [boosterfuels/monogram](https://github.com/boosterfuels/monogram) | Aspect-oriented layer on top of the MongoDB Node.js driver | 74 |
@@ -73,8 +73,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [ecmadao/rxjs-example](https://github.com/ecmadao/rxjs-example) | A quick start for RxJS usage | 69 |
 | [Alex-ray/docker-postgres-react-redux-graphql-hmr-ssr-kit](https://github.com/Alex-ray/docker-postgres-react-redux-graphql-hmr-ssr-kit) | Production ready full stack starter kit. Featuring: Docker, Node, Postgres, Sequelize, React, Redux, GraphQL, RXjs, Webpack 3, Hot Module Reloading, Server Side Rendering and Code Splitting. | 67 |
 | [Amin52J/React-Redux-Enterprise](https://github.com/Amin52J/React-Redux-Enterprise) | A React-Redux boilerplate for enterprise/large scaled web applications | 67 |
+| [janryWang/react-eva](https://github.com/janryWang/react-eva) | Effects+View+Actions(React distributed state management solution with rxjs.) | 63 |
 | [dacz/rxr](https://github.com/dacz/rxr) | Maintains state for React app with RxJS the Redux way | 63 |
-| [janryWang/react-eva](https://github.com/janryWang/react-eva) | Effects+View+Actions(React distributed state management solution with rxjs.) | 62 |
 | [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) | :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express) | 59 |
 | [Widdershin/rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem) | What are the most popular libraries in the RxJS ecosystem? | 59 |
 | [staltz/rxtween](https://github.com/staltz/rxtween) | A library for creating RxJS Observables related to animation | 57 |
