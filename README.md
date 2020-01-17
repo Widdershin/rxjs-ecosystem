@@ -4,11 +4,11 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19734 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19736 |
 | [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 6313 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 2786 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1604 |
-| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1225 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 2787 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1603 |
+| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1224 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1016 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 842 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 618 |
@@ -22,8 +22,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [kitten/fluorine](https://github.com/kitten/fluorine) | [UNMAINTAINED] Reactive state and side effect management for React using a single stream of actions | 290 |
 | [thalesmello/exploring-async](https://github.com/thalesmello/exploring-async) | An essay exploring different async techniques in JavaScript. | 280 |
 | [mocheng/dissecting-rxjs](https://github.com/mocheng/dissecting-rxjs) | 《深入浅出RxJS》代码库 | 274 |
-| [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 272 |
-| [coderplanets/coderplanets_web](https://github.com/coderplanets/coderplanets_web) | the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️ | 269 |
+| [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 273 |
+| [coderplanets/coderplanets_web](https://github.com/coderplanets/coderplanets_web) | the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️ | 271 |
 | [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 265 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 251 |
 | [just4fun/stuhome](https://github.com/just4fun/stuhome) | :iphone: An iOS client for http://bbs.uestc.edu.cn/ written in react-native, redux and redux-observable. | 233 |
@@ -44,7 +44,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [bradtraversy/rxjs_boiler](https://github.com/bradtraversy/rxjs_boiler) | Boilerplate for building RxJS applications with Webpack and Babel | 121 |
 | [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 117 |
 | [salsita/redux-saga-rxjs](https://github.com/salsita/redux-saga-rxjs) | RxJS implementation of Saga pattern for redux | 113 |
-| [funcool/beicon](https://github.com/funcool/beicon) | Reactive Streams for ClojureScript  | 112 |
+| [funcool/beicon](https://github.com/funcool/beicon) | Reactive Streams for ClojureScript  | 113 |
 | [mattpodwysocki/RxJSKoans](https://github.com/mattpodwysocki/RxJSKoans) | The Reactive Extensions for JavaScript (RxJS) Koans | 111 |
 | [justinwoo/react-rxjs-flow](https://github.com/justinwoo/react-rxjs-flow) | a simple react application using RxJS for data flow | 104 |
 | [soup-js/omnistream](https://github.com/soup-js/omnistream) | Stream based state management for React built on RxJs | 102 |
@@ -83,7 +83,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [benlesh/RxEmber](https://github.com/benlesh/RxEmber) | RxJS and EmberJS integration helpers | 54 |
 | [jorgeucano/30DiasConRxJS](https://github.com/jorgeucano/30DiasConRxJS) | https://medium.com/@jorgeucano/30-d%C3%ADas-con-rxjs-a5b791ece755 | 54 |
 | [luigiplr/react-router-redux-rxjs-code-splitting](https://github.com/luigiplr/react-router-redux-rxjs-code-splitting) | An example React Redux app using React Router & RxJS for route management & chunk loading respectively. | 53 |
-| [herculesJS/herculex](https://github.com/herculesJS/herculex) | Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs | 52 |
+| [herculesJS/herculex](https://github.com/herculesJS/herculex) | Predictable state container for alipay mini-program inspired by vuex, redux, immutableJS,elm,rxjs | 53 |
 | [Lucifier129/rxjs-react](https://github.com/Lucifier129/rxjs-react) | make your react-component become reactive with rxjs | 50 |
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 50 |
 | [zxbodya/reactive-widgets](https://github.com/zxbodya/reactive-widgets) | Application starter template, for implementing isomorphic widgets, using RxJS and React | 50 |
