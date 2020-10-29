@@ -4,12 +4,12 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19712 |
-| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7021 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3044 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19716 |
+| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7026 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3045 |
 | [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1637 |
 | [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1348 |
-| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1024 |
+| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1028 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1019 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 836 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 617 |
@@ -23,7 +23,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [Shyam-Chen/Express-Starter](https://github.com/Shyam-Chen/Express-Starter) | :truck: A boilerplate for Node.js, Express, Mongoose, Heroku, Atlas, Nodemon, PM2, and Babel. REST / GraphQL API Server | PaaS | SaaS | CI/CD | Jest | Supertest | Docker | MongoDB | PostgreSQL | Sequelize | Lodash | RxJS | JWT | Passport | Socket.IO | Redis | CircleCI | Apollo | TensorFlow | Microservices | Backend Starter Kit | ES6 | 323 |
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | (From 2015) RxJS Workshop exercises for MLOC.js | 313 |
 | [mocheng/dissecting-rxjs](https://github.com/mocheng/dissecting-rxjs) | 《深入浅出RxJS》代码库 | 307 |
-| [coderplanets/coderplanets_web](https://github.com/coderplanets/coderplanets_web) | the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️ | 299 |
+| [coderplanets/coderplanets_web](https://github.com/coderplanets/coderplanets_web) | the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️ | 300 |
 | [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 290 |
 | [kitten/fluorine](https://github.com/kitten/fluorine) | [UNMAINTAINED] Reactive state and side effect management for React using a single stream of actions | 288 |
 | [thalesmello/exploring-async](https://github.com/thalesmello/exploring-async) | An essay exploring different async techniques in JavaScript. | 282 |
@@ -38,13 +38,13 @@ What are the most popular libraries in the RxJS ecosystem?
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 190 |
 | [Trakkasure/mikronode](https://github.com/Trakkasure/mikronode) | Mikrotik API for Node | 171 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 164 |
-| [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) | 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram | 156 |
+| [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) | 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram | 157 |
 | [vuejs/vuex-observable](https://github.com/vuejs/vuex-observable) | Consume Vuex actions as Observables using RxJS 5 | 156 |
-| [staven630/blog](https://github.com/staven630/blog) | 旧书常读出新意,俗见尽弃作雅人！ | 146 |
+| [staven630/blog](https://github.com/staven630/blog) | 旧书常读出新意,俗见尽弃作雅人！ | 147 |
 | [joshburgess/redux-most](https://github.com/joshburgess/redux-most) | Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming. | 136 |
+| [funcool/beicon](https://github.com/funcool/beicon) | Reactive Streams for ClojureScript  | 130 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 129 |
 | [kitten/rxjs-diagrams](https://github.com/kitten/rxjs-diagrams) | React Components for visualising RxJS observables and operators | 125 |
-| [funcool/beicon](https://github.com/funcool/beicon) | Reactive Streams for ClojureScript  | 125 |
 | [bradtraversy/rxjs_boiler](https://github.com/bradtraversy/rxjs_boiler) | Boilerplate for building RxJS applications with Webpack and Babel | 122 |
 | [christianalfoni/rxjs-react-component](https://github.com/christianalfoni/rxjs-react-component) | A component allowing you to change state using observables | 119 |
 | [RxJSInAction/rxjs-in-action](https://github.com/RxJSInAction/rxjs-in-action) | Code sample repository | 114 |
@@ -92,8 +92,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [joelhooks/react-rxjs-angular-di-todomvc](https://github.com/joelhooks/react-rxjs-angular-di-todomvc) | Combines the forces of these powerful tools to create a todo list. | 50 |
 | [jamesb3ll/reduxbag](https://github.com/jamesb3ll/reduxbag) | 👜Callbag RxJS-like middleware for asynchronous side effects in Redux | 48 |
 | [yamalight/rxstate](https://github.com/yamalight/rxstate) | Simple opinionated state management library based on RxJS | 46 |
+| [monobasic/Angular-Reactive-Demo-Shop](https://github.com/monobasic/Angular-Reactive-Demo-Shop) | Angular 8 Demo Shop | 45 |
 | [joshburgess/inferno-most-fp-demo](https://github.com/joshburgess/inferno-most-fp-demo) | A demo for the ReactJS Tampa Bay meetup showing how to build a React+Redux-like architecture from scratch using Inferno, Most.js, reactive programmning, and various functional programming tools & techniques | 45 |
-| [monobasic/Angular-Reactive-Demo-Shop](https://github.com/monobasic/Angular-Reactive-Demo-Shop) | Angular 8 Demo Shop | 44 |
 | [HiJesse/Demeter](https://github.com/HiJesse/Demeter) | Nodejs/ES6/Rxjs/MySQL/Express/Webpack/React/Redux/AntD | 42 |
 | [panacloud/learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs) | Learn Reactive Programming with RxJS 5 and TypeScript in Baby Steps | 42 |
 | [langhuihui/rx4rx](https://github.com/langhuihui/rx4rx) | A standard for creating reactive program library faster and more lightweight than rxjs | 42 |
