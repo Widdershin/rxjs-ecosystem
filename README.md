@@ -4,16 +4,16 @@ What are the most popular libraries in the RxJS ecosystem?
 
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
-| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19711 |
+| [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19710 |
 | [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7203 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3095 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3099 |
 | [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1644 |
-| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1376 |
-| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1320 |
+| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1379 |
+| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1324 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1018 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 835 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 618 |
-| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 598 |
+| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 599 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 432 |
 | [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 416 |
 | [ais-one/vue-crud-x](https://github.com/ais-one/vue-crud-x) | Vue+Express Cookbook & CRUD Component (with Vite and Web Components) | 378 |
@@ -38,8 +38,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [ericelliott/irecord](https://github.com/ericelliott/irecord) | An immutable store that exposes an RxJS observable. Great for React. | 190 |
 | [Trakkasure/mikronode](https://github.com/Trakkasure/mikronode) | Mikrotik API for Node | 179 |
 | [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) | React + RxJs + React-Router + Webpack + babel and soon more | 165 |
+| [staven630/blog](https://github.com/staven630/blog) | 旧书常读出新意,俗见尽弃作雅人！ | 164 |
 | [yalishizhude/RxWX](https://github.com/yalishizhude/RxWX) | 用于微信小程序的RxJS，将微信API函数全部RxJS化，封装成Observable对象，支持wepy，RxJS for weixin miniprogram | 163 |
-| [staven630/blog](https://github.com/staven630/blog) | 旧书常读出新意,俗见尽弃作雅人！ | 163 |
 | [vuejs/vuex-observable](https://github.com/vuejs/vuex-observable) | Consume Vuex actions as Observables using RxJS 5 | 156 |
 | [joshburgess/redux-most](https://github.com/joshburgess/redux-most) | Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming. | 137 |
 | [rxmqjs/rxmq.js](https://github.com/rxmqjs/rxmq.js) | JavaScript pub/sub library based on RxJS | 133 |
@@ -56,7 +56,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [eliseumds/react-autocomplete](https://github.com/eliseumds/react-autocomplete) | Just tasting some ReactJS + RxJS | 99 |
 | [shiftyp/redurx](https://github.com/shiftyp/redurx) | Redux'ish Functional State Management using RxJS | 98 |
 | [benlesh/RxSocketSubject](https://github.com/benlesh/RxSocketSubject) | A more advanced web socket wrapper for RxJS | 95 |
-| [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) | :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express) | 94 |
+| [oh-my-c0de/oh-my-fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) | :rocket: Full stack web application skeleton (Next.js, Redux, RxJS, Immutable, Express) | 95 |
 | [gilbarbara/react-redux-observables-boilerplate](https://github.com/gilbarbara/react-redux-observables-boilerplate) | Starter kit for React with Router, Redux, Observable + RxJS | 88 |
 | [bsideup/rx-connect](https://github.com/bsideup/rx-connect) | Glue your state and pure React components with RxJS | 87 |
 | [gcanti/tom](https://github.com/gcanti/tom) | Elmish type-safe state and side effect manager using RxJS | 85 |
@@ -99,11 +99,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | [fireship-io/175-code-this-not-that-rxjs](https://github.com/fireship-io/175-code-this-not-that-rxjs) | Episode 175 - Code This, Not That. RxJS.  | 42 |
 | [HiJesse/Demeter](https://github.com/HiJesse/Demeter) | Nodejs/ES6/Rxjs/MySQL/Express/Webpack/React/Redux/AntD | 42 |
 | [panacloud/learn-typed-rxjs](https://github.com/panacloud/learn-typed-rxjs) | Learn Reactive Programming with RxJS 5 and TypeScript in Baby Steps | 42 |
+| [gvergnaud/evolui](https://github.com/gvergnaud/evolui) | A tiny reactive user interface library, built on top of RxJs. | 42 |
 | [annatomka/rxjs-examples](https://github.com/annatomka/rxjs-examples) | In this repository you can find some RxJS examples that I made while I'm learning it. | 41 |
 | [leandrohsilveira/reactjs-hooks-rxjs](https://github.com/leandrohsilveira/reactjs-hooks-rxjs) | Simple example of RxJS usage with ReactJS Hooks | 41 |
 | [im6/vp](https://github.com/im6/vp) | source code of ColorPK v1 | 41 |
 | [JayKan/RxJS-Playground](https://github.com/JayKan/RxJS-Playground) | A list of real world RxJS examples to enhance your RxJS learning adventure  | 40 |
-| [Lorti/rxjs-breakout](https://github.com/Lorti/rxjs-breakout) | RxJS Breakout | 40 |
 
 Auto generated by update.js by [searching Github](https://github.com/search?q=rxjs+language%3AJavaScript+stars%3A>3&type=Repositories&sort=stars&order=desc&per_page=1000).
 
