@@ -5,15 +5,15 @@ What are the most popular libraries in the RxJS ecosystem?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19710 |
-| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7265 |
+| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7267 |
 | [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3109 |
-| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1646 |
-| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1457 |
+| [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1647 |
+| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1464 |
 | [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1390 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1018 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 836 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 618 |
-| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 604 |
+| [frintjs/frint](https://github.com/frintjs/frint) | Modular JavaScript framework for building scalable and reactive applications | 605 |
 | [Reactive-Extensions/RxJS-DOM](https://github.com/Reactive-Extensions/RxJS-DOM) | HTML DOM Bindings for the Reactive Extensions for JavaScript | 433 |
 | [jas-chen/rx-redux](https://github.com/jas-chen/rx-redux) | A reimplementation of redux using RxJS. | 416 |
 | [ais-one/vue-crud-x](https://github.com/ais-one/vue-crud-x) | Vue+Express Cookbook & CRUD Component (with Vite and Web Components) | 382 |
@@ -25,7 +25,7 @@ What are the most popular libraries in the RxJS ecosystem?
 | [staltz/rxjs-training](https://github.com/staltz/rxjs-training) | (From 2015) RxJS Workshop exercises for MLOC.js | 314 |
 | [coderplanets/coderplanets_web](https://github.com/coderplanets/coderplanets_web) | the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️ | 310 |
 | [hstarorg/HstarDoc](https://github.com/hstarorg/HstarDoc) | My blogs write with markdown. | 295 |
-| [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 287 |
+| [staltz/toy-rx](https://github.com/staltz/toy-rx) | A tiny implementation of RxJS that actually works, for learning | 288 |
 | [kitten/fluorine](https://github.com/kitten/fluorine) | [UNMAINTAINED] Reactive state and side effect management for React using a single stream of actions | 287 |
 | [thalesmello/exploring-async](https://github.com/thalesmello/exploring-async) | An essay exploring different async techniques in JavaScript. | 280 |
 | [fdecampredon/rx-flux](https://github.com/fdecampredon/rx-flux) | The Flux architecture with RxJS | 251 |
