@@ -5,11 +5,11 @@ What are the most popular libraries in the RxJS ecosystem?
 | Name     | Description       | Stars |
 | -------- | ----------------- | ------|
 | [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) | The Reactive Extensions for JavaScript | 19690 |
-| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7462 |
-| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3144 |
-| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1695 |
+| [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB) | 🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️ | 7464 |
+| [vuejs/vue-rx](https://github.com/vuejs/vue-rx) | 👁️ RxJS integration for Vue.js. | 3145 |
+| [coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview) | 《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。 | 1697 |
 | [xgrommx/rx-book](https://github.com/xgrommx/rx-book) | null | 1653 |
-| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1419 |
+| [moroshko/rxviz](https://github.com/moroshko/rxviz) | Rx Visualizer - Animated playground for Rx Observables | 1420 |
 | [acdlite/redux-rx](https://github.com/acdlite/redux-rx) | RxJS utilities for Redux. | 1018 |
 | [Reactive-Extensions/rx.angular.js](https://github.com/Reactive-Extensions/rx.angular.js) | AngularJS Bindings for RxJS | 833 |
 | [fdecampredon/rx-react](https://github.com/fdecampredon/rx-react) | ReactJS bindings for RxJS | 619 |
@@ -61,8 +61,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [BerndWessels/preact-redux-isomorphic](https://github.com/BerndWessels/preact-redux-isomorphic) | preact-redux-isomorphic PWA SPA SSR best practices and libraries in under 80kB page size (for live demo click the link below) | 86 |
 | [gcanti/tom](https://github.com/gcanti/tom) | Elmish type-safe state and side effect manager using RxJS | 85 |
 | [acdlite/react-rx-component](https://github.com/acdlite/react-rx-component) | Yet another RxJS library for React :) Create container components (also known as smart components) by transforming a sequence of props | 85 |
+| [lgf196/ant-simple-pro](https://github.com/lgf196/ant-simple-pro) | 简洁，美观，快速上手，支持3大框架(vue3.0,react,angular,typescript)；Concise, beautiful, quick to get started, support 3 big frameworks | 82 |
 | [mcoetzee/udeo](https://github.com/mcoetzee/udeo) | RxJS based state streams | 81 |
-| [lgf196/ant-simple-pro](https://github.com/lgf196/ant-simple-pro) | 简洁，美观，快速上手，支持3大框架(vue3.0,react,angular,typescript)；Concise, beautiful, quick to get started, support 3 big frameworks | 81 |
 | [madeagency/reactivity](https://github.com/madeagency/reactivity) | A Bleeding Edge React Universal Boilerplate for Power Users. | 79 |
 | [ryardley/rxjs-as-redux](https://github.com/ryardley/rxjs-as-redux) | A simple proof of concept Redux style framework only using Rx | 78 |
 | [DxCx/graphql-rxjs](https://github.com/DxCx/graphql-rxjs) | fork of Graphql which adds Observable support | 78 |
@@ -86,8 +86,8 @@ What are the most popular libraries in the RxJS ecosystem?
 | [taichi/js-boilerplate](https://github.com/taichi/js-boilerplate) | Modern JavaScript Application Boilerplate | 57 |
 | [chicoxyzzy/rx-mobx](https://github.com/chicoxyzzy/rx-mobx) | [DEPRECATED] :sparkles: Convert MobX observables to RxJS and vice-versa | 56 |
 | [benlesh/RxEmber](https://github.com/benlesh/RxEmber) | RxJS and EmberJS integration helpers | 55 |
-| [Lucifier129/rxjs-react](https://github.com/Lucifier129/rxjs-react) | make your react-component become reactive with rxjs | 54 |
 | [luigiplr/react-router-redux-rxjs-code-splitting](https://github.com/luigiplr/react-router-redux-rxjs-code-splitting) | An example React Redux app using React Router & RxJS for route management & chunk loading respectively. | 54 |
+| [Lucifier129/rxjs-react](https://github.com/Lucifier129/rxjs-react) | make your react-component become reactive with rxjs | 54 |
 | [monobasic/Angular-Reactive-Demo-Shop](https://github.com/monobasic/Angular-Reactive-Demo-Shop) | Angular 8 Demo Shop | 54 |
 | [rxjs-playground/rxjs-playground.github.io](https://github.com/rxjs-playground/rxjs-playground.github.io) | Rx.js playground | 53 |
 | [zxbodya/reactive-widgets](https://github.com/zxbodya/reactive-widgets) | Application starter template, for implementing isomorphic widgets, using RxJS and React | 51 |
